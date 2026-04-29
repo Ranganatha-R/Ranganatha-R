@@ -12,10 +12,10 @@
 | :--- | :--- |
 **SQL** | Deep Querying, Joins, CTEs, Data Cleaning |
 **Python** | Pandas, Numpy, Deep Understanding of Logic |
-| <img src="https://githubusercontent.com" alt="powerbi" width="30" height="30"/> **Power BI** | Interactive Dashboards, Data Modeling |
-| <img src="https://icons8.com" width="30" height="30"/> **Excel** | Regression Analysis, Pivot Tables, Formulas |
-| <img src="https://icons8.com" width="30" height="30"/> **Documentation** | MS Word, PowerPoint, Detailed Reporting |
-| <img src="https://icons8.com" width="30" height="30"/> **Statistics** | Regression Analysis, Correlation, Hypothesis Testing |
+**Power BI** | Interactive Dashboards, Data Modeling |
+**Excel** | Regression Analysis, Pivot Tables, Formulas |
+**Documentation** | MS Word, PowerPoint, Detailed Reporting |
+**Statistics** | Regression Analysis, Correlation, Hypothesis Testing |
 
 ---
 
