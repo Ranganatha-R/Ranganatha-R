@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm RANGANATHA R ⚡
 > **Data Analyst | Turning Data into Actionable Insights | Problem Solver**
-> *"Transforming complex datasets into clear, actionable stories."*
+> 
+> **"Transforming complex datasets into clear, actionable stories."**
 
 ---
 
