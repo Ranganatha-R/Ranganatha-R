@@ -10,7 +10,7 @@
 
 | Tool | technical Skills |
 | :--- | :--- |
-| <img src="https://githubusercontent.com" alt="sql" width="30" height="30"/> **SQL** | Deep Querying, Joins, CTEs, Data Cleaning |
+**SQL** | Deep Querying, Joins, CTEs, Data Cleaning |
 | <img src="https://githubusercontent.com" alt="python" width="30" height="30"/> **Python** | Pandas, Numpy, Deep Understanding of Logic |
 | <img src="https://githubusercontent.com" alt="powerbi" width="30" height="30"/> **Power BI** | Interactive Dashboards, Data Modeling |
 | <img src="https://icons8.com" width="30" height="30"/> **Excel** | Regression Analysis, Pivot Tables, Formulas |
