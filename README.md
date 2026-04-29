@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋, I'm Ranganatha! 👋
 
-<!--
-**Ranganatha-R/Ranganatha-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Turning Data into Actionable Insights
+I am a passionate Data Analyst dedicated to solving business problems through data storytelling. My expertise lies in cleaning messy data with SQL and building high-impact dashboards in Power BI and Excel.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Toolbox
+* **Data Extraction:** SQL (MySQL, PostgreSQL)
+* **Visualization:** Power BI, MS Excel
+* **Statistical Analysis:** Regression Analysis, RFM Modeling
+* **Documentation:** Clear, stakeholder-ready reporting
+
+## 🚀 What I'm working on
+* 📈 Currently exploring advanced DAX for financial forecasting.
+* 🔍 Open to opportunities as a Junior Data Analyst or Business Analyst.
+
+---
+📫 **Let's Connect:**(https://www.linkedin.com/in/ranganatha-r-0a0812280/)
+
